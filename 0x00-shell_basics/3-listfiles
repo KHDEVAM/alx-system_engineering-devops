@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --time-style="+%b %e"
+ls -lw --time-style="+%b %e"
